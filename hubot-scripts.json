@@ -17,6 +17,7 @@
   "hackernews.coffee",
   "megusta.coffee",
   "ping.coffee",
+  "plusplus",
   "redis-brain",
   "reddit",
   "reddit-jokes.coffee",
